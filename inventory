@@ -1,0 +1,4 @@
+[ubuntu]
+ubuntu-ws ansible_host=192.168.10.4 ansible_user=devops
+[redhat]
+rocky9 ansible_host=192.168.10.6 ansible_user=devops
